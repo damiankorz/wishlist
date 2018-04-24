@@ -1,0 +1,18 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid silver;
+    margin-bottom: 10px;
+}
+    table thead {
+        background-color: skyblue;
+    }
+        table th {
+            padding: 5px;
+            width: 200px;
+            text-align: left;
+            border-right: 1px solid silver;
+        }
+        table td {
+            padding: 5px;
+            border-right: 1px solid silver;
+        }
